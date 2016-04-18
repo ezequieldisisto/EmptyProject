@@ -2,7 +2,7 @@
 
 Carga de imagenes:
 
-  - Picassa => http://square.github.io/picasso/
+  - Picasso => http://square.github.io/picasso/
   - Universal Image Loader => https://github.com/nostra13/Android-Universal-Image-Loader
   
 Base de datos:
@@ -20,3 +20,16 @@ JSon:
 Servicios:
 
   -Volley => https://github.com/mcxiaoke/android-volley
+  
+Fuentes Customisadas:
+
+  -PixlUI => https://github.com/neopixl/PixlUI
+  
+Carga de Imagen:
+
+  -EasyImage => https://github.com/jkwiecien/EasyImage
+  
+Circular Pager Indicator:
+
+  - CircleIndicator => https://github.com/ongakuer/CircleIndicator
+  - ViewPagerIndicator => https://github.com/JakeWharton/ViewPagerIndicator
