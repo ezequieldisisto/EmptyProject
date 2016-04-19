@@ -1,4 +1,4 @@
-package com.tictapps.emptyproyect;
+package com.tictapps.emptyproject;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
